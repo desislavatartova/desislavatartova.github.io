@@ -1,6 +1,5 @@
 menu:
 - {name: 'Research', url: '/publications'}
-- {name: 'Teaching', url: '/courses'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/dtartova'}
